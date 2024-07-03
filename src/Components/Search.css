@@ -1,0 +1,36 @@
+/* .Search_Data{
+
+} */
+
+.Search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 350px;
+    padding-top: 10px;
+    gap: 2rem;
+    border: 2px solid black;
+    padding: 3rem;
+    width: 600px;
+ 
+}
+
+input {
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+}
+
+/* input::selection{
+    border-color: yellow;
+} */
+
+.Search_data{
+    border: 2px solid black;
+    padding: 2rem;
+}
+li{
+    list-style: none;
+}
